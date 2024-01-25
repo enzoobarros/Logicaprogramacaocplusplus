@@ -1,8 +1,0 @@
-Comandos Git
-
-git clone - <endereço em que esta o repositorio>
-apos clique na pasta recem e digite cmd la em cima
-git init - inicia o repositorio 
-git add . - adiciona todos os arquivos criados
-git commit -m "comentario" - adiciona um comentario para ser inserido no repositorio
-git psuh - adiciona o arquivo criado ao repositorio 
